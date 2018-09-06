@@ -1,9 +1,6 @@
-# Introduction
+# Crawly Public Backlog
 
-Cronhub is a tool to monitor any scheduled task (or let's call it a cron job). It makes it a breeze to keep track of all your cron jobs
-in a single dashboard. You can use Cronhub to get alerts when:
+This repo contains the [public product roadmap](https://github.com/cronhub-app/backlog/projects/1) for [Crawply](https://crawly.app).
 
-1.  Your job doesn't run on schedule
-2.  Your jobs run longer than expected
+If you have an idea for a new feature please go ahead and [create a new issue](https://github.com/crawly-app/backlog/issues/new). Or you can always email us at [support@crawly.app](mailto:support@crawly.app).
 
-You can choose how you want to get alerts using any of our integrations for your monitor.
